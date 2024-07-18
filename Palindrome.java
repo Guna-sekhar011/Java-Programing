@@ -8,7 +8,6 @@ class Palindrome{
         for(int i=str.length()-1;i>=0;i--){
             str2=str2+str.charAt(i);
         }
-        System.out.println(str2);
     
         int res = str.compareTo(str2);
         if(res==0){
