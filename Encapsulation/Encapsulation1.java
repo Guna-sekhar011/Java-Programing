@@ -1,3 +1,13 @@
+/*  Design a Customer class in Java with private attributes for customer
+information, including`id`, `name`, `email`, `phone`, `password`, and
+`address`. Implement encapsulation by providing appropriate getters and
+setters for each attribute.
+Create one object of Customer & take the inputs from the user, set the values
+& display the values using setter and getters. */
+
+
+
+
 import java.util.Scanner;
 
 class Encapsulation{
